@@ -32,7 +32,7 @@
         "type": "Group",
         "config": {
           "label": "Navigation",
-          "repeat": false,
+          "repeat": true,
           "fields": {
             "link": {
               "type": "Link",
