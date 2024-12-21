@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const Logo = () => (
+const Logo: React.FC<React.SVGProps<SVGElement>> = () => (
   <svg xmlns="http://www.w3.org/2000/svg" width="136" height="25" fill="none">
     <text>Flowrise</text>
     <path
