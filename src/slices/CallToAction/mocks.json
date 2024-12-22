@@ -1,0 +1,45 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Fallen"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Est consequat excepteur amet duis pariatur do non eiusmod duis tempor. Magna esse ea officia adipisicing nisi qui veniam adipisicing eiusmod amet officia ullamco nulla. Proident mollit dolore ad et nostrud in est Lorem."
+						}
+					}
+				]
+			},
+			"button_link": {
+				"key": "6904ad49-2fdb-4620-befc-f8bb586a159c",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io",
+					"text": "sang"
+				}
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "massage",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
