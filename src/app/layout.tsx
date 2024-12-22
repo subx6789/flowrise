@@ -39,7 +39,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={clsx(nunito.variable, nunitoSans.variable)}>
+    <html
+      suppressHydrationWarning
+      lang="en"
+      className={clsx(nunito.variable, nunitoSans.variable)}
+    >
       <body>
         <Header />
         {children}
